@@ -1,4 +1,5 @@
-/* Python script using the matplotlib library to create a line graph of the Packet Delivery Ratio (PDR) for both LEACH and OLSR under varying node mobility scenarios */
+/* Python script using the matplotlib library to create a line graph of the Packet Delivery Ratio (PDR) 
+for both LEACH and OLSR under varying node mobility scenarios */
 
 import matplotlib.pyplot as plt
 
